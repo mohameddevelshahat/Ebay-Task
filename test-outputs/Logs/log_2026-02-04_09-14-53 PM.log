@@ -1,0 +1,6 @@
+[INFO] 04-02-2026 21:14:53 [main] [Tests.Ebay_Search_Test.setup(Ebay_Search_Test.java:24)] - Chrome is Opened
+[INFO] 04-02-2026 21:14:56 [main] [Tests.Ebay_Search_Test.setup(Ebay_Search_Test.java:26)] - Page is redirected Ebay
+[INFO] 04-02-2026 21:14:56 [main] [Tests.Ebay_Search_Test.searchMazdaMx5(Ebay_Search_Test.java:41)] - Home page loaded
+[INFO] 04-02-2026 21:14:57 [main] [Tests.Ebay_Search_Test.searchMazdaMx5(Ebay_Search_Test.java:43)] - Searching for mazda mx-5
+[INFO] 04-02-2026 21:15:00 [main] [Tests.Ebay_Search_Test.searchMazdaMx5(Ebay_Search_Test.java:47)] - Results Are Obtained
+[INFO] 04-02-2026 21:15:11 [main] [Tests.Ebay_Search_Test.searchMazdaMx5(Ebay_Search_Test.java:52)] - Results of Manual Filter Are Obtained

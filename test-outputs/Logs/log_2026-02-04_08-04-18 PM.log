@@ -1,0 +1,8 @@
+[INFO] 04-02-2026 20:04:19 [main] [Tests.Ebay_Search_Test.setup(Ebay_Search_Test.java:24)] - Chrome is Opened
+[INFO] 04-02-2026 20:04:23 [main] [Tests.Ebay_Search_Test.setup(Ebay_Search_Test.java:26)] - Page is redirected Ebay
+[INFO] 04-02-2026 20:04:23 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - The Test Case  searchMazdaMx5Started
+[INFO] 04-02-2026 20:04:23 [main] [Tests.Ebay_Search_Test.searchMazdaMx5(Ebay_Search_Test.java:41)] - Home page loaded
+[INFO] 04-02-2026 20:04:23 [main] [Tests.Ebay_Search_Test.searchMazdaMx5(Ebay_Search_Test.java:43)] - Searching for mazda mx-5
+[INFO] 04-02-2026 20:04:27 [main] [Tests.Ebay_Search_Test.searchMazdaMx5(Ebay_Search_Test.java:47)] - Results Are Obtained
+[INFO] 04-02-2026 20:04:28 [main] [Tests.Ebay_Search_Test.searchMazdaMx5(Ebay_Search_Test.java:52)] - Results of Manual Filter Are Obtained
+[INFO] 04-02-2026 20:04:28 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:16)] - The Test Case  searchMazdaMx5Passed
