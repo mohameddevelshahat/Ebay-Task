@@ -57,9 +57,15 @@ The framework reads test data from an external JSON file:
 
 Page Object Model (POM)
 
-1- Home_Page.java: Represents the eBay homepage. Contains methods for opening the homepage and searching for items.
+1- Home_Page.java: Represents the eBay homepage. Contains methods for opening the homepage and searching for items
 
-2- Search_ResultsPage.java: Represents the search results page. Contains methods for validating results, counting results, and applying filters.
+2- Search_ResultsPage.java: Represents the search results page. Contains methods for validating results, counting results, and applying filters
+
+Utilities
+
+DriverManager.java: Handles WebDriver initialization and teardown
+
+TestDataReader.java: Reads external test data from JSON.
 
 **Author**
 
