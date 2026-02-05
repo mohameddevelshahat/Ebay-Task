@@ -1,4 +1,4 @@
-# Automation Testing Project
+# Ebay Automation Testing Project
 
 ## 📌 Overview
 This project contains automated tests using **Selenium WebDriver**, **Java**, and **TestNG**.
@@ -29,11 +29,11 @@ and validate landing on the homepage.
 
 1- Java JDK 11 or higher
 
-2- Maven (if using Maven)
+2- Maven
 
-3- IDE (IntelliJ IDEA, Eclipse, VS Code)
+3- IDE (IntelliJ IDEA)
 
-4- Chrome browser + ChromeDriver (or another browser driver)
+4- Chrome browser + ChromeDriver + Firfox browser and Edge prowser
 
 5- Basic knowledge of Selenium WebDriver, TestNG, and Java OOP
 
@@ -51,9 +51,11 @@ The framework reads test data from an external JSON file:
 
 4- Compile all Java classes
 
-5- Run the tests using TestNG
+5- Run the tests using TestNG (executor.xml)
 
 6- Test execution reports will be generated in the test-output folder
+
+7- Run allure report
 
 Page Object Model (POM)
 
@@ -63,9 +65,11 @@ Page Object Model (POM)
 
 Utilities
 
-DriverManager.java: Handles WebDriver initialization and teardown
+DataUtils: Reading data from JSON and Properites Files
 
-TestDataReader.java: Reads external test data from JSON.
+LogsUtils: To Log and trace code 
+
+Utility: Dealing with Actions needed to the project
 
 **Author**
 
